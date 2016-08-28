@@ -5,7 +5,7 @@ published: true
 image: images/pFRC.JPG
 title: FIRST Robotics Competition
 permalink: projects/FRC
-date: 2011-2015
+date: 2015
 labels:
   - Robotics
   - Java
