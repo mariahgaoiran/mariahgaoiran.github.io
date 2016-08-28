@@ -1,16 +1,14 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
-date: 2015
+image: images/pCamp.JPG
+title: Camp Innovation
+permalink: projects/Camp
+date: 2011-present
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - VEX
+  - Mentor
+summary: Mentoring students K-8 in STEM during an annual week-long summer camp.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
