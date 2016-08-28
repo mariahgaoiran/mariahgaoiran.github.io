@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+published: true
 image: images/pKara.png
 title: Karaoke Machine
 permalink: projects/Kara
