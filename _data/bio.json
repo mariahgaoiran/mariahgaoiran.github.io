@@ -26,14 +26,14 @@
         "url": "http://linkedin.com/in/mariah-justine-gaoiran-7b4287124"
       },
       {
-        "network": "twitter",
+        "network": "",
         "username": "",
-        "url": "http://twitter.com/changeme"
+        "url": ""
       },
       {
-        "network": "instagram",
+        "network": "",
         "username": "",
-        "url": "http://instagram.com/changeme"
+        "url": ""
       }
     ]
   },
@@ -45,12 +45,12 @@
       ]
     },
     {
-      "name": "",
+      "name": "networking",
       "keywords": [
       ]
     },
     {
-      "name": "",
+      "name": "artificial intelligence",
       "keywords": [
       ]
     }
