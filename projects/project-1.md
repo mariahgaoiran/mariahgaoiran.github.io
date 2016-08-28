@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+published: true
 image: images/pFRC.JPG
 title: FIRST Robotics Competition
 permalink: projects/FRC
