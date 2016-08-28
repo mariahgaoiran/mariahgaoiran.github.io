@@ -2,15 +2,15 @@
   "basics": {
     "name": "Mariah Justine Gaoiran",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "https://mariahgaoiran.github.io/images/MGprofile.png",
     "email": "mjg4@hawaii.edu",
-    "phone": "808-349-0629",
+    "phone": "",
     "website": "https://mariahgaoiran.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Ewa Beach",
+      "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
     },
@@ -22,8 +22,8 @@
       },
       {
         "network": "linkedin",
-        "username": "",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "mariah-justine-gaoiran-7b4287124",
+        "url": "http://linkedin.com/in/mariah-justine-gaoiran-7b4287124"
       },
       {
         "network": "twitter",
@@ -39,19 +39,18 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "software engineering",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        
       ]
     },
     {
-      "name": "data mining",
+      "name": "",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "",
       "keywords": [
       ]
     }
