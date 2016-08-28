@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-published: true
-image: images/pFRC.JPG
-title: FIRST Robotics Competition
+image: images/micromouse.jpg
+title: Micromouse
 permalink: projects/FRC
 date: 2015
 labels:
   - Robotics
-  - Java
-summary: My robotics team designed, built, and controlled robots in the annual First Robotics Competition for four consecutive years. 
+  - Arduino
+  - C++
+summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
 ---
 
 <div class="ui small rounded images">
