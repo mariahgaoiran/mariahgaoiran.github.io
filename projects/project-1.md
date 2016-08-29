@@ -8,21 +8,14 @@ date: 2015
 labels:
   - Robotics
   - Java
-summary: My robotics team designed, built, and controlled robots in the annual First Robotics Competition for four consecutive years.
+summary: My robotics team made it to the semifinals of the 2015 First Robotics Competition Hawaii Regional.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
+The FIRST Robotics Competition (FRC) is a 3-day international robotics competition held annually for middle and high schoolers. It consists of multiple matches played on an enclosed carpeted field, often around 27x54 ft in length. The matches are played between 6 robots, split between 2 alliances. Matches are usually 2 minutes 3o seconds in length, with a timed autonomous period before finishing with a driver controlled period. An alliance wins a match when they recieve more points than the other alliance before the match ends. Scores are earned based on the rules of that year's game. Scoring often consists of, but is not limited to, completing tasks such as: placing objects into certain areas, driving robots to a location, and moving objects into different positions. Teams are alloted a six-week 'build season', during which they design, build, program, and test a robot so it may be able to achieve scores.
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+In my final year of competition, I held the positions as lead programmer, driver, Director of Internal Relations, and President in my robotics team. The 2015 game focused on lifting and stacking totes, cylindrical bins, and pool noodles. For the autonomous period, I programmed the robot to lift bins from a neutral territory mid-field, then drive towards our alliance zone so that other alliances may not access them. As for the driver controlled period, I programmed basic tank controls for driving, a camera for better view from afar, and sensors so that the robot will not extend it arm mechanism past its physical limits. Through this I came to familiarize myself with Java and Netbeans. When driving the robot, I had to learn to recieve and process information in a high pressure situation, as I am not only reacting to what the robot is facing on the field, but also what the coaches and other alliance teammates are telling me. Finally, as a director and president of the team, I was in charge of mentoring and supporting the other teammates through advice, meetings, and socials. In the end, my team made it to the semifinals of the competition.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can learn more about the competition at the [FRC Website](http://www.firstinspires.org/robotics/frc).
 
 
 
