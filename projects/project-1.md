@@ -4,7 +4,7 @@ type: project
 image: images/pFRC.png
 title: FIRST Robotics Competition
 permalink: projects/FRC
-date: 2015-present
+date: "2015-present"
 labels:
   - Robotics
   - Java
