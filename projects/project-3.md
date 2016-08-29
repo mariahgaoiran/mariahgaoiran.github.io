@@ -11,50 +11,6 @@ labels:
 summary: A karaoke machine game my team developed in ICS 111.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+As a conclusion to ICS 111, Introduction to Computer Science I, our class was required to create an open ended project in groups of 4. The projects had to include the object-oriented programming and Java skills we collected over the semester, including basics like seperate classes, an array (or ArrayList), and reading from/ writing to a file. My group decided to create a karaoke machine, which main ability was to present lyrics in time to a song so that a user may sing to the song using the displayed words. After the song is completed, a randomized score was displayed and organized into the statistics. The machine consisted of a home screen, from which the user may access a statistics screen, a song selection screen, and a random song. From the song selection screen, the user could choose 1 of 8 songs to sing along to.
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
-
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+In this project, I was in charge of storing and displaying the statistics along with creating lyrics timings to 2 songs. I also programmed the buttons so that the other screens would load when they were pressed. For the statistics, I had the random number generated at the end of a song and written to a file. When the statistics page was accessed, the numbers stored in the file were placed in an ArrayList and sorted via bubble sort. Then, only the top 10 scores were displayed on the screen. For the lyrics, the strings were simply translated and hidden using EZ commands, with wait functions to accomodate for timing. 
