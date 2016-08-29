@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: Micromouse
-permalink: projects/FRC
+permalink: projects/micromouse
 date: 2015
 labels:
   - Robotics
