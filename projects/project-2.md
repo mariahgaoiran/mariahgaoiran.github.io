@@ -4,7 +4,7 @@ type: project
 image: images/pCamp.png
 title: Camp Innovation
 permalink: projects/Camp
-date: 2015
+date: 2016
 labels:
   - Mentor
   - VEX
