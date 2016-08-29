@@ -11,12 +11,6 @@ labels:
 summary: Mentoring students K-8 in STEM during an annual week-long summer camp.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+Camp Innovation is a week-long summer camp hosted by the Moanalua Middle School (MMS) robotics team. The mentors are the robotics team faculty advisors and alumni of the MMS robotics team, of which I fall into the second category. Students that participate in this camp are from grades K-8. They are taught through hands-on experiences with two differents robots, a VEX robot and another robot that changes by year. In 2016, the second robot was a push-bot, a robot programmed through simple button controls. Mentors help students build and program their robots, to teach them about the benefits of STEM (Science, Technology, Engineering, Math) and increase their interest in it.
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+After participating as a mentor in the camp for 4 years, I have learned how to interact with kids. Finding the right way to motivate them, encouraging them to build friendships and teamwork, and answering their questions with explanations they'll understand are all just parts of the mentoring experience. I have also learned how to cooperate with other mentors in such a busy environment. A further skill I had to brush up on was being a Master of Ceremonies, as I had to act as an MC for the mini robotics tournament we hold at the end of the camps.  
