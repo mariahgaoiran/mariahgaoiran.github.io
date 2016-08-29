@@ -50,103 +50,81 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Java"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2019)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2015-08-24",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.85",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Research Computing Facility",
+      "position": "Computer and Network Support",
+      "website": "http://www.soest.hawaii.edu/rcf/",
+      "startDate": "2016-08-17",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Assists in computer and networking needs for those part of the SOEST network at UH Manoa",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Create and manage accounts to access SOEST network"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "For Inspiration and Recognition of Science and Technology",
+      "website": "http://www.firstinspires.org/",
+      "position": "Team Queuer",
+      "startDate": "2016-03-30",
+      "endDate": "2016-04-02",
+      "summary": "Leading teams to scheduled matches",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Leading teams to designated areas",
+        "Scheduling teams to fill in for other non-present ones"
       ]
     },
     {
-      "organization": "",
+      "organization": "Moanalua Middle School Robotics",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Mentor",
+      "startDate": "2011",
+      "endDate": "2016",
+      "summary": "Mentoring K-8 in STEM during a week long summer camp",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Teaching students to build and program various robots",
+        "Creating and facilitating activites to encourage problem-solving",
+        "Acting as the Master of Ceremonies for an exhibition tournament"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Dean's List",
+      "date": "Fall 2015, Spring 2016",
+      "awarder": "UH Manoa College of Natural Sciences",
+      "summary": "Award for achieving above a 3.5 GPA with a class load of over 12 credits."
     },
     {
-      "title": "First place",
+      "title": "Departmental Merit Scholarship",
       "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "awarder": "UH Manoa Music Department",
+      "summary": "Scholarship for playing cello in UH Symphony Orchestra."
     }
   ],
   "references": [
