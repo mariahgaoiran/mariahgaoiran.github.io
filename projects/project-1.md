@@ -7,8 +7,7 @@ permalink: projects/FRC
 date: 2015
 labels:
   - Robotics
-  - Arduino
-  - C++
+  - Java
 summary: My robotics team designed, built, and controlled robots in the annual First Robotics Competition for four consecutive years.
 ---
 
