@@ -1,13 +1,15 @@
 ---
 layout: project
 type: project
-image: images/pCamp.JPG
-title: Camp Innovation
-permalink: projects/Camp
-date: 2011-present
+image: images/vacay-square.png
+title: Vacay
+permalink: projects/vacay
+date: 2015
 labels:
-  - VEX
-  - Mentor
+  -  Javascript
+  -  Meteor
+  -  MongoDB
+  -  GitHub
 summary: Mentoring students K-8 in STEM during an annual week-long summer camp.
 ---
 
