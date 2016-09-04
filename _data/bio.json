@@ -24,11 +24,6 @@
         "network": "linkedin",
         "username": "mariah-justine-gaoiran",
         "url": "http://linkedin.com/in/mariah-justine-gaoiran"
-      },
-      {
-        "network": "techhui",
-        "username": "Mariah Justine Gaoiran",
-        "url": "http://www.techhui.com/profile/MariahJGaoiran"
       }
     ]
   },
@@ -87,7 +82,7 @@
       "endDate": "Present",
       "summary": "Assists in computer and networking needs for the SOEST network at UH Manoa",
       "highlights": [
-        "Create and manage accounts to access SOEST network", ""
+        "Create and manage accounts to access SOEST network"
       ]
     }
   ],
