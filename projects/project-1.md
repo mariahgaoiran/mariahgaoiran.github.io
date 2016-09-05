@@ -6,8 +6,8 @@ title: FIRST Robotics Competition
 permalink: projects/FRC
 date: 2015
 labels:
-  - Robotics
   - Java
+  - Robotics
   - Teamwork
 summary: My robotics team made it to the semifinals of the 2015 First Robotics Competition Hawaii Regional.
 ---
