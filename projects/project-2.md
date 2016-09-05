@@ -7,7 +7,7 @@ permalink: projects/Camp
 date: 2016
 labels:
   - Mentor
-  - VEX
+  - Robotics
 summary: Mentoring students K-8 in STEM during an annual week-long summer camp.
 ---
 
