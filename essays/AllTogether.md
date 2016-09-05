@@ -11,7 +11,7 @@ labels:
 <div class="ui small rounded images">
   <img class="ui image" src="../images/ePencil.jpg">
   <img class="ui image" src="../images/eBow.jpg">
-  <img class="ui image" src="../images/eController.png">
+  <img class="ui image" src="../images/eController.jpg">
 </div>
 
 If you saw me when I was younger, I would usually be carrying one of three things: a pencil, a cello bow, or a controller. The pencil, because I have always loved art, especially drawing. The bow, because I loved to play music. The controller, because I loved robotics and video games. But when it came to picking a career in college, I went with the most logical choice: robotics, which translated into computer science.
