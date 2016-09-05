@@ -8,6 +8,7 @@ permalink: projects/Kara
 date: 2015
 labels:
   - Java
+  - Teamwork
 summary: A karaoke machine game my team developed in ICS 111.
 ---
 
