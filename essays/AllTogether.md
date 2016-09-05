@@ -8,6 +8,12 @@ labels:
   - Learning
 ---
 
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/ePencil.jpg">
+  <img class="ui image" src="../images/eBow.jpg">
+  <img class="ui image" src="../images/eController.png">
+</div>
+
 If you saw me when I was younger, I would usually be carrying one of three things: a pencil, a cello bow, or a controller. The pencil, because I have always loved art, especially drawing. The bow, because I loved to play music. The controller, because I loved robotics and video games. But when it came to picking a career in college, I went with the most logical choice: robotics, which translated into computer science.
 
 Art, music, and robotics have been with me for such a long time that I want to try towards a career where I can incorporate the three. I want to know if software engineering is the path to accomplishing that. I suspect it requires a lot of the creativity that art and music have in common. It can be used to create tools to support such interests as well, so I expect the class to help me find in what ways exactly art and music can be incorporated into computer science. 
