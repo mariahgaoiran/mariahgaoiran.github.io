@@ -7,6 +7,8 @@ labels:
   - Configuration Management
 ---
 
+<img class="ui image" src="../images/gold.jpg">
+
 Thank you, Smash Mouth, for throwing away ancient ideas to emphasize how external impressions are everything. In terms of Git, the computer science community cannot hold down their hype -- and it is for good reason.
 
 # First Time Adventurer
