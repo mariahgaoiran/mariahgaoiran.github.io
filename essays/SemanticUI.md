@@ -16,6 +16,8 @@ The simple class names, the versatile reuse of variations, the easy organization
 
 It's not so much "learning" a framework as it is getting used to one. Through the instruction of my software engineering professor, we were introduced to Semantic UI through a series of videos explaining every little element, collection, view, and module it included. I will be the first to admit that in those approximately 2 hours and 30 minutes, I had effectively learned how to: 1) position my laptop so as to watch videos while lying on the floor and 2) fall asleep in this position. There was no way I would be able to memorize all the content the video chose to bombard me with. Semantic UI provides a great variety of options that can easily overwhelm someone.
 
+<img class="ui image" src="https://johnathanhines.files.wordpress.com/2012/09/kozzi-businessman_sleeping_on_his_laptop-1774x11831.jpg" width=300px>
+
 # I can just rely on the docs... right?
 
 Though they all generally had the same format for implementation, there are little nuances to each class that must be used. Even though I can recognize that I want to create an instance of a "ui menu", I have to remember that menus take "items" within them. I don't have to put words as a "text" class, or within a paragraph tag as I would for a different collection.
