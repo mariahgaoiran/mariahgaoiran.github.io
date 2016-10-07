@@ -18,6 +18,7 @@ It's not so much "learning" a framework as it is getting used to one. Through th
 
 <img class="ui image" src="https://johnathanhines.files.wordpress.com/2012/09/kozzi-businessman_sleeping_on_his_laptop-1774x11831.jpg" width=300px>
 
+
 # I can just rely on the docs... right?
 
 Though they all generally had the same format for implementation, there are little nuances to each class that must be used. Even though I can recognize that I want to create an instance of a "ui menu", I have to remember that menus take "items" within them. I don't have to put words as a "text" class, or within a paragraph tag as I would for a different collection.
