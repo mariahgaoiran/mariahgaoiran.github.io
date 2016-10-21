@@ -1,4 +1,4 @@
-﻿---
+---
 layout: essay
 type: essay
 title: The Great Jumbled Unknown 
