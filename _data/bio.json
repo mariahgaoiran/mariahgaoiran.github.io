@@ -29,18 +29,18 @@
   },
   "interests": [
     {
-      "name": "robotics",
+      "name": "Robotics",
       "keywords": [
         
       ]
     },
     {
-      "name": "software engineering",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "networking",
+      "name": "Networking",
       "keywords": [
       ]
     }
@@ -50,7 +50,7 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "Java"
+        "Java", "Javascript", "HTML", "CSS"
       ]
     },
     {
