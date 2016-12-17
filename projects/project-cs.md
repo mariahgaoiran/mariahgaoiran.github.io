@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/cs-logo.png
+image: images/cs-logo-s2.png
 title: Collaborative Study (CS)
 permalink: projects/CS
 date: 2016
