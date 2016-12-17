@@ -21,9 +21,11 @@ As a final project for ICS 321, a databases course, I developed a web app game c
 
 Cats appear in the garden based on a number randomly generated per login. Players can then click on a cat's image to view its data and add them to the collection of cats they've already met. Another part of gameplay was petting a cat. By selecting "pet" for a previously met cat, users are shown a math problem equal to the number of times they must pet a cat to make it happy. Users would then submit an answer - submitting a correct answer would result in one point being added to the cat's collective happiness level, incorrect answers would result in no change. The collective happiness level is not individual per user, it is a sum of all points gained by every user.
 
-<img class="ui image" src="../images/cats-collection.png">
-<img class="ui image" src="../images/cats-pet.png">
-<img class="ui image" src="../images/cats-statistics.png">
+<div class="ui medium images">
+  <img class="ui image" src="../images/cats-collection.png">
+  <img class="ui image" src="../images/cats-pet.png">
+  <img class="ui image" src="../images/cats-statistics.png">
+</div>
 
 Using Java Server Faces (JSF) as a framework and Oracle as the backend database, I created the web pages and designed a database to store user and cat data. New to the app making scene, it was difficult at first to wrap the idea around integrating different programming languages for full functionality. However, a [separate project in software engineering](https://mariahgaoiran.github.io/projects/CS) gave me practice to make such an idea easier to comprehend. In addition, I had never created a webpage that effectively communicated with a database to store data based on actions in the browser. I was forced to learn not only how to create, connect, and transfer data between the Oracle database, but also the uses of JSF.
 
