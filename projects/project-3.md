@@ -16,7 +16,7 @@ summary: A karaoke machine game my team developed in ICS 111.
 
 As a conclusion to ICS 111, Introduction to Computer Science I, our class was required to create an open ended project in groups of 4. The projects had to include the object-oriented programming and Java skills we collected over the semester, including basics like separate classes, implementing an array (or ArrayList), and reading/writing a file. My team's final product was a karaoke machine, which main ability presented lyrics in time to a song so that a user may sing along using the displayed words. After the song was completed, a randomized score was displayed and written to a file as statistics. The machine consisted of a home screen, from which the user could access a statistics screen, song selection screen, and a random song. From the song selection screen, the user could choose 1 of 8 songs to sing along to.
 
-<div class="ui big rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/KARA2.png">
   <img class="ui image" src="../images/KARA3.png">
 </div>
