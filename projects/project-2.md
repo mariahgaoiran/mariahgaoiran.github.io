@@ -3,11 +3,12 @@ layout: project
 type: project
 image: images/pCamp.png
 title: Camp Innovation
-permalink: projects/Camp
+permalink: projects/camp-innovation
 date: 2016
 labels:
   - Mentor
   - Robotics
+  - Volunteer
 summary: Mentoring students K-8 in STEM during an annual week-long summer camp.
 ---
 

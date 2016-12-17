@@ -11,7 +11,7 @@ labels:
 
 # Beginning: First time adventurer
 
-I am still a rookie to the configuration management scene. Though I have heard of the wonders of Git, I have not used it before this year, and thus, am just experiencing it's glory. After spending a previous semester grappling with a group project's simultaneous update issues, it was bliss to see such problems being solved for me through Git. No longer do I have to worry about who has what copy of the code, what must to be changed in the master code, and worst, figuring out for myself what has been changed.
+I am still a rookie to the configuration management scene. Though I have heard of the wonders of Git, I have not used it before this year, and thus, am just experiencing it's glory. After [spending a previous semester grappling with a group project's simultaneous update issues](https://mariahgaoiran.github.io/projects/karaoke-machine), it was bliss to see such problems being solved for me through Git. No longer do I have to worry about who has what copy of the code, what must to be changed in the master code, and worst, figuring out for myself what has been changed.
 
 # Rising Action: Death Mountain before Kokiri Forest
 
