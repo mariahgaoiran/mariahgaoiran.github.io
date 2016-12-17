@@ -13,6 +13,7 @@ labels:
   - Java Server Faces
   - HTML
   - CSS
+  - SQL
 summary: A cat game web app made as the final project for my database class.
 
 ---
@@ -21,7 +22,7 @@ As a final project for ICS 321, a databases course, I developed a web app game c
 
 Cats appear in the garden based on a number randomly generated per login. Players can then click on a cat's image to view its data and add them to the collection of cats they've already met. Another part of gameplay was petting a cat. By selecting "pet" for a previously met cat, users are shown a math problem equal to the number of times they must pet a cat to make it happy. Users would then submit an answer - submitting a correct answer would result in one point being added to the cat's collective happiness level, incorrect answers would result in no change. The collective happiness level is not individual per user, it is a sum of all points gained by every user.
 
-<div class="ui medium images">
+<div class="ui massive center floated images">
   <img class="ui image" src="../images/cats-collection.png">
   <img class="ui image" src="../images/cats-pet.png">
   <img class="ui image" src="../images/cats-statistics.png">
