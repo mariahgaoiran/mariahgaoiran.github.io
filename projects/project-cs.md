@@ -11,6 +11,7 @@ labels:
   - Meteor
   - JavaScript
   - HTML
+  - Semantic UI
   - Teamwork
   - GitHub
 summary: A scheduling app made by my GitHub organization CollaborativeStudy as a project for software engineering.
@@ -21,7 +22,7 @@ Much of my life as a Computer Science major has been an individual ordeal. For t
 
 Collaborative Study (CS) was a web app made to change that introverted lifestyle. Using [Meteor](https://www.meteor.com/), a team of three other students and I formed the GitHub organization [CollaborativeStudy](https://collaborativestudy.github.io/) and developed CS, a scheduling app made for ICS students to plan study sessions together. Users receive an editable public profile and gain access to a public calendar of upcoming sessions. They can create study sessions or join existing ones, form study groups, view other profiles and review them, and chat with other online users.
 
-<div class="ui massive center floated images">
+<div class="ui big images">
   <img class="ui image" src="../images/cs-messages.png">
   <img class="ui image" src="../images/cs-my-calendar.png">
   <img class="ui image" src="../images/cs-profile.png">
@@ -30,7 +31,7 @@ Collaborative Study (CS) was a web app made to change that introverted lifestyle
 My hand in development was spread amongst a wide variety of areas:
 1. The study sessions database, our main method of storing the details of sessions which users created. Aside from schema design, I created the form used to validate and add to the database, as well as the page that called this database to display a session's details to users. The latter page allows users to join study sessions as either a "Pro" (short for Professor, a tutor) or "Stud" (short for Student, a tutee), then received additional options based on their choice.
 
-<div class="ui massive center floated images">
+<div class="ui big images">
   <img class="ui image" src="../images/cs-create-study-session.png">
   <img class="ui image" src="../images/cs-study-session-details.png">
 </div>
@@ -40,6 +41,10 @@ My hand in development was spread amongst a wide variety of areas:
 4. The logo's design
 5. Minor fixes, such as the top menu's design and search resets
 
-View the homepage of Collaborative Study [here](https://collaborativestudy.github.io/).
+Though I am quite proud of the result, developing CS was not without its fair share of troubles. Our team was new to Meteor and thus had to learn how to use MongoDB (the database) and Spacebars (Meteor's templating language). In fact, we were new to the common aspects of web app development, like templates, routers and deployment. A lot of time was put into reading the documentation and attempting implementations of them. Test and then retest, the mantra of all software engineers, had become our mantra as well.
+
+The cooperation between my team for this project would not have been possible without GitHub. Anyone who's used this service knows that it's a real monster to get used to, especially when working in a team of amateurs. It wasn't just about learning the motions of merging or committing, it was understanding what every action was really doing. On multiple occasions, I would run the app off the master branch only to find that another member's merge had deleted all the data from my own. After this project, however, I feel much more comfortable using GitHub.
+
+All in all, this project has been one of the biggest I've done so far. If you have the time please view the homepage of Collaborative Study at https://collaborativestudy.github.io/.
 
 
