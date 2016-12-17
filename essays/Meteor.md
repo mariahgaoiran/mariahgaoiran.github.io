@@ -12,7 +12,7 @@ After a stressful two weeks of learning a new aspect to software engineering, my
 
 "Did you feel these past two weeks like you were hit on the head with “a small body of matter from outer space that enters the earth’s atmosphere, becoming incandescent as a result of friction and appearing as a streak of light”?"
 
-Taken directly from our class website, he was referring to Meteor, a web platform that apart from providing material for comedic relief is apparently great at giving us greif as well.
+Taken directly from our class website, he was referring to Meteor, a web platform that apart from providing material for comedic relief is apparently great at giving us grief as well.
 
 # The Full Combo 
 

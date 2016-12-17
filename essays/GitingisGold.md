@@ -15,7 +15,7 @@ I am still a rookie to the configuration management scene. Though I have heard o
 
 # Rising Action: Death Mountain before Kokiri Forest
 
-Everyone knows that the path to success starts out simple before ramping up the difficultly. In videogames, you usually move from the calming beasts of the forest to the terrible monsters of the mountains, not the other way around. Yet GitHub seems to bring out the challenges first.
+Everyone knows that the path to success starts out simple before ramping up the difficultly. In video games, you usually move from the calming beasts of the forest to the terrible monsters of the mountains, not the other way around. Yet GitHub seems to bring out the challenges first.
 
 For something meant to make coding simpler, GitHub has a huge learning curve. What's the difference between forking and branching? What is a pull request? How can I work on the same project with others and not completely screw up all their work? The questions are never-ending to a new user. No matter how clean the interface is - and I'll have you know, GitHub looks quite neat - it is hard to grasp both the concepts of Git and the ways of implementing them through GitHub all at once. It takes a lot of documentation searching and Stack Overflow to figure out the whole mess, and even then you will not understand it all. There are some things that you cannot to do through the Desktop version, which had me reeling.
 

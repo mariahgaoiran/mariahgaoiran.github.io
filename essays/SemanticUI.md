@@ -18,7 +18,7 @@ Semantic UI is a framework intended for easy web design. It utilizes simple clas
 ###Then what was so hard about it two months ago?
 I wasn't experienced in web design, so I didn't know what to compare Semantic UI to. When I was working on a [project](https://mariahgaoiran.github.io/projects/mathCats) this year, I ended up spending an exorbitant amount of time formatting using CSS. Don't get me wrong, CSS is a fun language to mess around with. But it takes a substantial amount of research to complete even the smallest things. While the names of CSS properties are usually straightforward, they weren't consistent with one another and that made them difficult to remember or predict. For example, the background color is controlled by the "background-color" property. The font size is controlled by the "font-size" property. So you would guess that the font color would be controlled by the "font-color" property. Unfortunately, that is not the case. (It's actually the "color" property.) Thus, one always had to refer to documentation or forums to find the correct properties to use.
 
-In comparison, the Semantic UI classes are consistent, even between different tags. A "massive" tag would result in a mammoth sized element, whether it be an image or a label. The documentation was also kept in a single [site](http://semantic-ui.com/introduction/getting-started.html00), whereas for CSS, the properties and their uses were spread all over. 
+In comparison, the Semantic UI classes are consistent, even between different tags. A "massive" tag would result in a mammoth sized element, whether it be an image or a label. The documentation was also kept in a single site, whereas for CSS, the properties and their uses were spread all over.
 
 #I want to read the original essay you wrote:
 That silly thing? Well here it is, for your entertainment.
@@ -45,6 +45,6 @@ Worse still is the naming of the classes. They're simple, like "ui container", w
 Being the only UI framework I've used, I can't compare Semantic UI to other frameworks to assess it's worth. I do believe, however, that getting accustomed to this framework will take time an practice. Time and practice I am willing to commit because the result so far, while slow, have been much more rich and interesting than the html/css pages I've been creating. Hopefully, with this framework, I can create web pages I am proud of.
 <hr>
 
-Luckily, I was able to achieve my wishes in that last paragraph. While not as sparkling as I thought it would be, Semantic UI allowed for quick creation of a chic webpage. It was put to good use in my ICS 314 software engineering project, [Collaborative Study](https://mariahgaoiran.github.io/projects/CS). While I do find it handy, it would be nice to explore other frameworks beyond it. 
+Luckily, I was able to achieve my wishes in that last paragraph. While not as sparkling as I thought it would be, Semantic UI allowed for quick creation of a chic web page. It was put to good use in my ICS 314 software engineering project, [Collaborative Study](https://mariahgaoiran.github.io/projects/CS). While I do find it handy, it would be nice to explore other frameworks beyond it.
 
 
