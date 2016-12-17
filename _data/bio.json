@@ -6,7 +6,7 @@
     "email": "mjg4@hawaii.edu",
     "phone": "",
     "website": "https://mariahgaoiran.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2019.",
+    "summary": "I am pursuing a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2019.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -50,14 +50,14 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "Java", "Javascript", "HTML", "CSS"
+        "Java", "Javascript", "HTML", "CSS", "Semantic UI"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Windows"
+        "Windows", "Git/GitHub"
       ]
     }
   ],
@@ -82,7 +82,12 @@
       "endDate": "Present",
       "summary": "Assists in computer and networking needs for the SOEST network at UH Manoa",
       "highlights": [
-        "Create and manage accounts to access SOEST network"
+        "Recover data off failed systems",
+        "Manage servers and switches in the closets and data centers of SOEST",
+        "Create and manage accounts to access the SOEST network",
+        "Clean infected systems",
+        "Set up or reinstall systems and necessary software",
+        "Tend to issues by request"
       ]
     }
   ],
@@ -108,7 +113,7 @@
       "summary": "Mentoring K-8 in STEM during a week long summer camp",
       "highlights": [
         "Teaching students to build and program various robots",
-        "Creating and facilitating activites to encourage problem-solving",
+        "Creating and facilitating activities to encourage problem-solving",
         "Acting as the Master of Ceremonies for an exhibition tournament"
       ]
     }

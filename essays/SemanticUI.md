@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-title:
-date: 2016-10-06
+title: Twas a Good Laugh
+date: 2016-12-16
 labels:
   - UI Framework
   - Semantic UI
