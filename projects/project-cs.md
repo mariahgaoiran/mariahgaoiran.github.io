@@ -22,7 +22,7 @@ Much of my life as a Computer Science major has been an individual ordeal. For t
 
 Collaborative Study (CS) was a web app made to change that introverted lifestyle. Using [Meteor](https://www.meteor.com/), a team of three other students and I formed the GitHub organization [CollaborativeStudy](https://collaborativestudy.github.io/) and developed CS, a scheduling app made for ICS students to plan study sessions together. Users receive an editable public profile and gain access to a public calendar of upcoming sessions. They can create study sessions or join existing ones, form study groups, view other profiles and review them, and chat with other online users.
 
-<div class="ui small images">
+<div class="ui medium images">
   <img class="ui image" src="../images/cs-profile.png">
   <img class="ui image" src="../images/cs-my-calendar.png">
 </div>
