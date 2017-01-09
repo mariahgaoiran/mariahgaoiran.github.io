@@ -10,17 +10,17 @@ labels:
 
 I originally wrote this essay in October, two months earlier than today. When I decided to reread it this morning, I immediately started laughing. Why?
 
-#It was titled "Semantic UI is Simply... Hard"
+# It was titled "Semantic UI is Simply... Hard"
 Oh, how times have changed. A wee two months ago, I foolishly thought that Semantic UI was difficult. Foolish, I say, because that was before I met CSS.
 
 Semantic UI is a framework intended for easy web design. It utilizes simple class names like "ui button" to generate elements in the simple but clean style Semantic UI is known for. Additions of other classes like "green" or "right floated" change the style of the element, all without having to create a stylesheet of your own. If you're familiar with using CSS to design a webpage, you'll know that this is a significantly easier process.
 
-###Then what was so hard about it two months ago?
+### Then what was so hard about it two months ago?
 I wasn't experienced in web design, so I didn't know what to compare Semantic UI to. When I was working on a [project](https://mariahgaoiran.github.io/projects/mathCats) this year, I ended up spending an exorbitant amount of time formatting using CSS. Don't get me wrong, CSS is a fun language to mess around with. But it takes a substantial amount of research to complete even the smallest things. While the names of CSS properties are usually straightforward, they weren't consistent with one another and that made them difficult to remember or predict. For example, the background color is controlled by the "background-color" property. The font size is controlled by the "font-size" property. So you would guess that the font color would be controlled by the "font-color" property. Unfortunately, that is not the case. (It's actually the "color" property.) Thus, one always had to refer to documentation or forums to find the correct properties to use.
 
 In comparison, the Semantic UI classes are consistent, even between different tags. A "massive" tag would result in a mammoth sized element, whether it be an image or a label. The documentation was also kept in a single site, whereas for CSS, the properties and their uses were spread all over.
 
-#I want to read the original essay you wrote:
+# I want to read the original essay you wrote:
 That silly thing? Well here it is, for your entertainment.
 
 <hr>
