@@ -28,11 +28,11 @@ Collaborative Study (CS) was a web app made to change that introverted lifestyle
 </div>
 
 My hand in development was spread amongst a wide variety of areas:
-1. The study sessions database, our main method of storing the details of sessions which users created. Aside from schema design, I created the form used to validate and add to the database, as well as the page that called this database to display a session's details to users. The latter page allows users to join study sessions as either a "Pro" (short for Professor, a tutor) or "Stud" (short for Student, a tutee), then received additional options based on their choice.
-2. The administrator page, where authorized users chose to allow or delete reviews written by other users, based on their discretion
-3. The website tutorial, a collection of informative messages displayed throughout the site that can be turned on and off through the top bar
-4. The logo's design
-5. Minor fixes, such as the top menu's design and search resets
+ 1. The study sessions database, our main method of storing the details of sessions which users created. Aside from schema design, I created the form used to validate and add to the database, as well as the page that called this database to display a session's details to users. The latter page allows users to join study sessions as either a "Pro" (short for Professor, a tutor) or "Stud" (short for Student, a tutee), then received additional options based on their choice.
+ 2. The administrator page, where authorized users chose to allow or delete reviews written by other users, based on their discretion
+ 3. The website tutorial, a collection of informative messages displayed throughout the site that can be turned on and off through the top bar
+ 4. The logo's design
+ 5. Minor fixes, such as the top menu's design and search resets
 
 <div class="ui big images">
   <img class="ui image" src="../images/cs-create-study-session.png">
