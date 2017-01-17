@@ -12,6 +12,7 @@ labels:
 [Collaborative Study (CS)](https://mariahgaoiran.github.io/projects/CS) is a scheduling app intended for UH Manoa ICS majors to plan study sessions together. Our [organization](https://collaborativestudy.github.io/) began development of CS in Fall 2016 as a project for our ICS 314 Software Engineering course. The latest updates and planned releases are listed below in reverse chronological order. Releases are scheduled for every two weeks.
 
 # 1.16.17
+
 ## Updates
  - *Fixed Calendar Bug:*
  
@@ -43,6 +44,7 @@ MongoDB, for some reason or the other, could not be connected to and left my app
 Aside from that, the only other issue appeared when I altered the removing topic function on a study session's detail page. I was having difficulty passing the value of the topic to be removed back and forth between the HTML and JavaScript. Once I understood that the id of the HTML icon tag could be set by and called by JavaScript, I had an easy method for passing the value between them.
 
 # Future Release Updates (1.16.17 - 2.1.17)
+
 ### My Page
  - Courses in the bio will be editable and deletable
  - Invalid image paths will result in a default photo
