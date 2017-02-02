@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: CollaborativeStudy (CS) Release Notes
-date: 2017-01-16
+date: 2017-02-1
 labels:
   - Web App
   - Semantic UI
@@ -10,6 +10,24 @@ labels:
 # CollaborativeStudy (CS) Release Notes
 
 [Collaborative Study (CS)](https://mariahgaoiran.github.io/projects/CS) is a scheduling app intended for UH Manoa ICS majors to plan study sessions together. Our [organization](https://collaborativestudy.github.io/) began development of CS in Fall 2016 as a project for our ICS 314 Software Engineering course. The latest updates and planned releases are listed below in reverse chronological order. Releases are scheduled for every two weeks.
+
+# 2.1.17
+
+## Updates
+ - *Edit and delete courses on profile page:*
+ 
+  Life never fails to give second chances and now so do we. If a user happens to list a course on their profile that they would like to edit or delete, there's now an option for that. Just click the little x for deletion, or click on the course number to edit the proficiency level.
+
+ - *Creating group study sessions:*
+ 
+ When on a group page, users can now create a study session that includes all group members, whom users can set to either pros or studs. It's a lot easier than having every member navigate to the details page and join the session.
+ 
+## Obstacles
+Reading another person's code is like entering your friend's kitchen. You know that everything must be working because your friend has been eating, but you're just not sure where the cups are or how exactly to use their stove. The same applies to modyifying code written by someone else: you may not know the variable names or how certain functions work at first, but upon use and some directions, one will find themselves familiar to it. 
+
+As I have worked neither on the profile page nor the group page, I was forced to familiarize myself not only with the HTML but also with the databases that each page accessed. In addition, I had to get working with the FullCalendar package, which I had not used prior to these two weeks. It was tedious to understand at first, and while there is nothing more I would like to do than clean up the code to be more my style, when working in collaborative projects, one must be fluid. Programmers must settle for code that is easy for everyone to understand, not just themself.
+
+Throughout the coding process, it seems as if with every issue solved, five more are formed. You don't realize the problems with something until another issue relies on it. I found a lot of minor issues that will be included in future milestones.
 
 # 1.16.17
 
@@ -43,20 +61,18 @@ MongoDB, for some reason or the other, could not be connected to and left my app
 
 Aside from that, the only other issue appeared when I altered the removing topic function on a study session's detail page. I was having difficulty passing the value of the topic to be removed back and forth between the HTML and JavaScript. Once I understood that the id of the HTML icon tag could be set by and called by JavaScript, I had an easy method for passing the value between them.
 
-# Future Release Updates (1.16.17 - 2.1.17)
+# Future Release Updates (2.1.17 - 2.15.17)
 
 ### My Page
- - Courses in the bio will be editable and deletable
- - Invalid image paths will result in a default photo
- - Data validation in the "Interests" field to account for special characters
+ - Add or edit the bio beyond just interests
  
 ### Groups
- - Private and public group system
- - Invitation system for adding group members
- - Quick creation of study sessions with all group members
- - Posts in group page
+ - Visibility: groups will be public or private
+ 
+### Notifications
+ - Notification system for upcoming study sessions or group invites
 
-### Sessions
- - Past sessions automatically deleted
- - Sessions displayed as cards instead of a table
- - Searches are case-insensitive and not limited to a single field
+### Additional Settings
+ - Change tutorial toggle location
+ - Contact a user
+ 
