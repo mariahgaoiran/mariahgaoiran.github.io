@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: CollaborativeStudy (CS) Release Notes
-date: 2017-02-1
+date: 2017-02-01
 labels:
   - Web App
   - Semantic UI
