@@ -22,13 +22,13 @@ labels:
  
  When on a group page, users can now create a study session that includes all group members, whom users can set to either pros or studs. It's a lot easier than having every member navigate to the details page and join the session.
  
+  - *Add and delete group members:*
+ 
+ Our site used to give a funny little message about how members added to a group would be "imaginary". We grew too old for imaginary friends, so users can no longer add any member name they want to a group. All members added are now actual users, who can be added or deleted from a particular group.
+  
   - *Session Cards:*
  
- A table of upcoming study sessions felt too much like a fifth grade math class. So we've changed the listing to display every upcoming session as a card instead, making the site look a lot cleaner and less elementary. 
- 
-   - *Add and Delete group members:*
- 
- Our site used to give a funny little message about how members added to a group would be "imaginary". We grew too old for imaginary friends, so actual members can now be added to and deleted from a group.
+ A table of upcoming study sessions felt too much like a fifth grade math class. So we've changed the listing to display every upcoming session as a card instead, making the site look a lot cleaner and a lot less elementary. 
  
   - *Search case-insensitive:*
  
