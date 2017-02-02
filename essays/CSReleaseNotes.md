@@ -75,4 +75,3 @@ Aside from that, the only other issue appeared when I altered the removing topic
 ### Additional Settings
  - Change tutorial toggle location
  - Contact a user
- 
