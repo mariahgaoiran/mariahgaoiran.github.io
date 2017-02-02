@@ -22,12 +22,24 @@ labels:
  
  When on a group page, users can now create a study session that includes all group members, whom users can set to either pros or studs. It's a lot easier than having every member navigate to the details page and join the session.
  
+  - *Session Cards:*
+ 
+ A table of upcoming study sessions felt too much like a fifth grade math class. So we've changed the listing to display every upcoming session as a card instead, making the site look a lot cleaner and less elementary. 
+ 
+   - *Add and Delete group members:*
+ 
+ Our site used to give a funny little message about how members added to a group would be "imaginary". We grew too old for imaginary friends, so actual members can now be added to and deleted from a group.
+ 
+  - *Search case-insensitive:*
+ 
+ Our searches were previously case-sensitive, so even a little capitalization would throw off an otherwise fine search. It's usually a good idea to be specific, but in this CASE, it's a little too much to be overly SENSITIVE. Jokes aside, we've made searches case-insensitive, so a searches like "ICS" and "ics" would return with the same results.  
+ 
 ## Obstacles
 Reading another person's code is like entering your friend's kitchen. You know that everything must be working because your friend has been eating, but you're just not sure where the cups are or how exactly to use their stove. The same applies to modyifying code written by someone else: you may not know the variable names or how certain functions work at first, but upon use and some directions, one will find themselves familiar to it. 
 
 As I have worked neither on the profile page nor the group page, I was forced to familiarize myself not only with the HTML but also with the databases that each page accessed. In addition, I had to get working with the FullCalendar package, which I had not used prior to these two weeks. It was tedious to understand at first, and while there is nothing more I would like to do than clean up the code to be more my style, when working in collaborative projects, one must be fluid. Programmers must settle for code that is easy for everyone to understand, not just themself.
 
-Throughout the coding process, it seems as if with every issue solved, five more are formed. You don't realize the problems with something until another issue relies on it. I found a lot of minor issues that will be included in future milestones.
+As a side note, it seems as if with every issue solved, five more are formed. Sometimes you don't realize there's an issue until another one depends on it. I found a lot of minor issues that will be included in future milestones.
 
 # 1.16.17
 
