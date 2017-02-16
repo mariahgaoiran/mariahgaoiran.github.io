@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: CollaborativeStudy (CS) Release Notes
-date: 2017-02-01
+date: 2017-02-15
 labels:
   - Web App
   - Semantic UI
@@ -16,15 +16,18 @@ labels:
 ## Updates
 *Courses on My Page sorted*
 
-  lorem ipsum
+  User profiles were a bit of a mess with the pros and studs list organized by edit timestamps, so we fixed it up to be sorted by course. With this organization, it's easier to determine if a user has experience in a course since it's placement in the list will always be included in the same location.
 
 *Study sessions sortable by course ascending or descending*
  
+  Like the above fix, the sessions listing is now sortable by course. Users may select between "Course Number (Low to High)" and "Course Number (High to Low)" to better their session browsing experience. It make still take O(n) time to look through them all, but at least it will be in order.
  
 *Empty or duplicate topics prevented*
+
+  Two things all people hate: repeating themselves and an empty agenda. So why did we let users list blank and duplicate topics for a session? Data validation for empty or duplicate topic inputs now forbids either from being added.
  
 ## Obstacles
-- reactive/updating
+  The largest obstacle these past 2 weeks came in the form of updating the study sessions page when a different sort order was selected. Since the sort was being done on the client side instead of the server, I had assumed that the page would not updagte reactively since the database was not being changed. Thus, I spent hours trying to get the change working with a global variable, reloading with FlowRouter, and partial page loading with jQuery. My efforts were fruitless for many a few days. It came to me while reading through other functions done by my teammates that a variable may be set for a particular session, which could replace the global variable I was using and force the page to update reactively. The issue was solved.
 
 # 2.1.17
 
@@ -102,6 +105,10 @@ Aside from that, the only other issue appeared when I altered the removing topic
 
 ### Notifications
 - General notificaiton functionality, for group invites, session dates, etc
+
+### Groups
+- Groups have an option to be private or public
+- Users may post in a group page
 
 ### Study Sessions
  - Sessions will be sortable by date in addition to by course
