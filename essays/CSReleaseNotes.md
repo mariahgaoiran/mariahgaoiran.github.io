@@ -27,7 +27,7 @@ labels:
   Two things all people hate: repeating themselves and an empty agenda. So why did we let users list blank and duplicate topics for a session? Data validation for empty or duplicate topic inputs now forbids either from being added.
  
 ## Obstacles
-  The largest obstacle these past 2 weeks came in the form of updating the study sessions page when a different sort order was selected. Since the sort was being done on the client side instead of the server, I had assumed that the page would not updagte reactively since the database was not being changed. Thus, I spent hours trying to get the change working with a global variable, reloading with FlowRouter, and partial page loading with jQuery. My efforts were fruitless for many a few days. It came to me while reading through other functions done by my teammates that a variable may be set for a particular session, which could replace the global variable I was using and force the page to update reactively. The issue was solved.
+  The largest obstacle these past 2 weeks came in the form of updating the study sessions page when a different sort order was selected. Since the sort was being done on the client side instead of the server, I had assumed that the page would not update reactively since the database was not being changed. Thus, I spent hours trying to get the change working with a global variable, reloading with FlowRouter, and partial page loading with jQuery. My efforts were fruitless for many a few days. It came to me while reading through other functions done by my teammates that a variable may be set for a particular session, which could replace the global variable I was using and force the page to update reactively. The issue was solved.
 
 # 2.1.17
 
