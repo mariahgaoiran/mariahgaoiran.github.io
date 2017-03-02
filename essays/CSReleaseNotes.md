@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: CollaborativeStudy (CS) Release Notes
-date: 2017-02-15
+date: 2017-03-01
 labels:
   - Web App
   - Semantic UI
@@ -10,6 +10,18 @@ labels:
 # CollaborativeStudy (CS) Release Notes
 
 [Collaborative Study (CS)](https://mariahgaoiran.github.io/projects/CS) is a scheduling app intended for UH Manoa ICS majors to plan study sessions together. Our [organization](https://collaborativestudy.github.io/) began development of CS in Fall 2016 as a project for our ICS 314 Software Engineering course. The latest updates and planned releases are listed below in reverse chronological order. Releases are scheduled for every two weeks.
+
+# 3.1.17
+
+## Updates
+*Landing page makeover (in progress)*
+
+  The attempt to make a plain Jane landing page into something a little less textbook and a lot more wow. Considerations include removing the header and replacing the body with more succinct descriptions.
+ 
+## Obstacles
+  There has been slow progress for the past two weeks and I attribute it almost entirely to my time management skills. As a student, there is no excuse for being unable to work on an assignment, despite the number of alternate assignments and midterms that may be occupying one's attentions. That is not to say, however, that I did not prioritize other courses instead of developing Collaborative Study. Thus, I cut a significant amount out of the time I usually spend on CS to focus on an algorithms course and C programming course. But, as the midterms have passed, I will return to dedicated work on this project. Furthermore, I have blocked off time in my schedule (six hours a week split between three days: Tuesday, Friday, and Sunday) for work on CS issues so that I will not fall behind again.    
+    I did have a bit of time to work on the landing page, but its current state is a mad jumble of images in what was my attempt to create a slick, photo-blocked description. Unfortunately, aside from having to rustle through the deep bins of CSS properties, my idea of having three columns of images turned out to be a much more cluttered design than I had anticipated. A recent workshop I had attended discussed the importance of usability in user interface design. In this case, the form most certainly did not follow function and I will have to do some rethinking to determine what is most important for a landing page.
+    Additionally, the workshop got me to question a lot of aspects to our app: are our menus too wordy? Will users have a difficult time navigating to a destinated page? Is the aesthetic quality overwhelming the content or wholly underwhelming? I think the best answer to these questions, actually, would come not from developers, but test users. Our organization has discussed conducting a usability test for some weeks now but have not committed to one. It would be beneficial to hold one in the coming two weeks, so look out for details pertaining to it. 
 
 # 2.15.17
 
