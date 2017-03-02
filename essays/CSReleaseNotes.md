@@ -105,7 +105,7 @@ MongoDB, for some reason or the other, could not be connected to and left my app
 
 Aside from that, the only other issue appeared when I altered the removing topic function on a study session's detail page. I was having difficulty passing the value of the topic to be removed back and forth between the HTML and JavaScript. Once I understood that the id of the HTML icon tag could be set by and called by JavaScript, I had an easy method for passing the value between them.
 
-# Future Release Updates (2.16.17 - 3.1.17)
+# Future Release Updates (3.1.17 - 3.15.17)
 
 ### Landing Page
  - New look with informative description
@@ -115,17 +115,20 @@ Aside from that, the only other issue appeared when I altered the removing topic
 - Make bio updateable
 
 ### Reviews
-- Users allowed to view only reviews written about others, not themselbes
+- Users allowed to wrie reviews only about others, not themselves
 
 ### Notifications
 - General notificaiton functionality, for group invites, session dates, etc
 
 ### Groups
-- Groups have an option to be private or public
-- Users may post in a group page
+- Group posts sorted to have newest on top
 
 ### Study Sessions
- - Sessions will be sortable by date in addition to by course
+- Sessions will be sortable by date in addition to by course
+
+### Chat
+- Improved chat user interface
+- Private chats between certain members
  
-### Admin
-- Developers will receive administrator priviledges
+### Usability Test
+- Test users will provide feedback on the current state of the app
