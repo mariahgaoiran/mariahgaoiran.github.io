@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: CollaborativeStudy (CS) Release Notes
-date: 2017-03-01
+date: 2017-03-15
 labels:
   - Web App
   - Semantic UI
@@ -10,6 +10,22 @@ labels:
 # CollaborativeStudy (CS) Release Notes
 
 [Collaborative Study (CS)](https://mariahgaoiran.github.io/projects/CS) is a scheduling app intended for UH Manoa ICS majors to plan study sessions together. Our [organization](https://collaborativestudy.github.io/) began development of CS in Fall 2016 as a project for our ICS 314 Software Engineering course. The latest updates and planned releases are listed below in reverse chronological order. Releases are scheduled for every two weeks.
+
+# 3.15.17
+
+## Updates
+*Sessions sorting by Date*
+Less searching and more sorting. The database was previously not storing the date of each sessions, so it has been updated to do so. From there, it was not hard to implement the sessions to be sorted not only by course but also by date.
+
+*Landing page makeover (in progress)*
+An improvement from last time, the landing page will feature a centered CS Logo bordered on both sides by a concise description of the app. Wait a bit longer for the most dolled up version yet.
+ 
+## Obstacles
+*Preparations for Usability Test*
+As stated last week, our group has officially begun planning for a usability test. That is, we constructed a list of tasks we'd like users to be able to accomplish using our app, whether it is through directions or free use. After compiling a list, we each tested to make sure the master branch of our app even had the capabilities to carry out such tasks, but much to our disappointment and surprise, there were bugs that made some tasks impossible. It is pertinent we fix these before running the usability test, so we'll be working to solve these issues in the upcoming milestone.
+
+*Landing page makeover (in progress)*
+The way life works, sometimes the ideas you have in your head don't look as nicely on paper - or in this case, on the screen. I decided to tone down the abundance of photos I was planning on using to go for a cleaner look, but the lone header image doesn't fill the screen well. If it's taught me anything so far, it's that designing is much more than creating your ideas in person: like so many other parts of computer science, it's about testing different options that you personally may not like, but your users may. While it's high time I finish up this issue, it still deserves more time to end up with a clean homepage I can be proud of.
 
 # 3.1.17
 
@@ -105,7 +121,7 @@ MongoDB, for some reason or the other, could not be connected to and left my app
 
 Aside from that, the only other issue appeared when I altered the removing topic function on a study session's detail page. I was having difficulty passing the value of the topic to be removed back and forth between the HTML and JavaScript. Once I understood that the id of the HTML icon tag could be set by and called by JavaScript, I had an easy method for passing the value between them.
 
-# Future Release Updates (3.1.17 - 3.15.17)
+# Future Release Updates (3.15.17 - 4.1.17)
 
 ### Landing Page
  - New look with informative description
@@ -114,21 +130,19 @@ Aside from that, the only other issue appeared when I altered the removing topic
 - A user's star review rating rounds down instead of up
 - Make bio updateable
 
-### Reviews
-- Users allowed to wrie reviews only about others, not themselves
-
 ### Notifications
 - General notificaiton functionality, for group invites, session dates, etc
 
 ### Groups
 - Group posts sorted to have newest on top
 
-### Study Sessions
-- Sessions will be sortable by date in addition to by course
+### Pros and Studs Table
+- Like the study sessions listing, a database for pros and studs will also be available
 
 ### Chat
 - Improved chat user interface
 - Private chats between certain members
  
 ### Usability Test
+- Minor fixes from previous branches
 - Test users will provide feedback on the current state of the app
