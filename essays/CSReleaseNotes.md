@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: CollaborativeStudy (CS) Release Notes
-date: 2017-03-15
+date: 2017-04-01
 labels:
   - Web App
   - Semantic UI
@@ -10,6 +10,16 @@ labels:
 # CollaborativeStudy (CS) Release Notes
 
 [Collaborative Study (CS)](https://mariahgaoiran.github.io/projects/CS) is a scheduling app intended for UH Manoa ICS majors to plan study sessions together. Our [organization](https://collaborativestudy.github.io/) began development of CS in Fall 2016 as a project for our ICS 314 Software Engineering course. The latest updates and planned releases are listed below in reverse chronological order. Releases are scheduled for every two weeks.
+
+# 4.1.17
+## Updates
+*Landing page makeover (in progress)*
+A few design changes have been added, including bordered paragraphs and white font.
+
+## Obstacles
+Once again, I have not made as much progress as I should have. I have been on the same issue for a few weeks now because of lack of committment to the project, for which I apologize.
+
+In other news, I have realized something very important from working on this issue for so long: I am slowed down not only because of the time I have put in recently, but also because CSS alone can only do so much. That is, without a framework, it is very difficult to design something that is not just a solid block of color. Yes, there are ways one can make interesting functions, like a progress bar or a picture slideshow. But the trendy webpages of today, with their sleek dropdowns and animations, are a combination of framework and Javascript. I used to be a bit adverse to using frameworks, as I saw them as a crutch instead of an advantage. But it is clear to me now that website design has advanced much beyond the basics for a reason. This is also why our professor introduced Semantic UI to us, so we can decide if it is a framework we admire and can use effectively to quickly code a web app. I'd like to explore other frameworks before settling on Semantic UI as my go to, but as of right now I find it very convenient.
 
 # 3.15.17
 
@@ -121,27 +131,23 @@ MongoDB, for some reason or the other, could not be connected to and left my app
 
 Aside from that, the only other issue appeared when I altered the removing topic function on a study session's detail page. I was having difficulty passing the value of the topic to be removed back and forth between the HTML and JavaScript. Once I understood that the id of the HTML icon tag could be set by and called by JavaScript, I had an easy method for passing the value between them.
 
-# Future Release Updates (3.15.17 - 4.1.17)
+# Future Release Updates (3.15.17 - 4.15.17)
 
 ### Landing Page
  - New look with informative description
 
-### My Page
-- A user's star review rating rounds down instead of up
-- Make bio updateable
-
 ### Notifications
 - General notificaiton functionality, for group invites, session dates, etc
 
-### Groups
-- Group posts sorted to have newest on top
-
 ### Pros and Studs Table
-- Like the study sessions listing, a database for pros and studs will also be available
+- Like the study sessions listing, a database for pros and studs will also be available and sortable
 
 ### Chat
 - Improved chat user interface
 - Private chats between certain members
+
+## Tutorials
+- Improve tutorial explanations
  
 ### Usability Test
 - Minor fixes from previous branches
