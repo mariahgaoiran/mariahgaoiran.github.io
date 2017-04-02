@@ -14,6 +14,7 @@ labels:
 # 4.1.17
 ## Updates
 *Landing page makeover (in progress)*
+
 A few design changes have been added, including bordered paragraphs and white font.
 
 ## Obstacles
@@ -32,9 +33,11 @@ An improvement from last time, the landing page will feature a centered CS Logo 
  
 ## Obstacles
 *Preparations for Usability Test*
+
 As stated last week, our group has officially begun planning for a usability test. That is, we constructed a list of tasks we'd like users to be able to accomplish using our app, whether it is through directions or free use. After compiling a list, we each tested to make sure the master branch of our app even had the capabilities to carry out such tasks, but much to our disappointment and surprise, there were bugs that made some tasks impossible. It is pertinent we fix these before running the usability test, so we'll be working to solve these issues in the upcoming milestone.
 
 *Landing page makeover (in progress)*
+
 The way life works, sometimes the ideas you have in your head don't look as nicely on paper - or in this case, on the screen. I decided to tone down the abundance of photos I was planning on using to go for a cleaner look, but the lone header image doesn't fill the screen well. If it's taught me anything so far, it's that designing is much more than creating your ideas in person: like so many other parts of computer science, it's about testing different options that you personally may not like, but your users may. While it's high time I finish up this issue, it still deserves more time to end up with a clean homepage I can be proud of.
 
 # 3.1.17
