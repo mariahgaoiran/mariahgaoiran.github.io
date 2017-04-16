@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: CollaborativeStudy (CS) Release Notes
-date: 2017-04-01
+date: 2017-04-15
 labels:
   - Web App
   - Semantic UI
@@ -10,6 +10,21 @@ labels:
 # CollaborativeStudy (CS) Release Notes
 
 [Collaborative Study (CS)](https://mariahgaoiran.github.io/projects/CS) is a scheduling app intended for UH Manoa ICS majors to plan study sessions together. Our [organization](https://collaborativestudy.github.io/) began development of CS in Fall 2016 as a project for our ICS 314 Software Engineering course. The latest updates and planned releases are listed below in reverse chronological order. Releases are scheduled for every two weeks.
+
+# 4.15.17
+## Updates
+*Usability Test*
+
+As the semester draws to a close, CS had it's first official usability test. Testers were evaluated on the ease at which they could accomplish certiain tasks in the app. The results have become the fodder for future updates on the app.
+
+*Landing page makeover (in progress)*
+
+A few design changes have been added, including drawn image borders.
+
+## Obstacles
+As the usability test was the main focus of these weeks, it was important that each organization member be prepared to facilitate the test properly to receive the most useful data from a single tester. That is, the master code had to be updated and synced with the local copies on each member's machine with the most recent working code. In order to find valid issues, every copy should have been identical. However, after completing testing with my tester, I found that although I had synced beforehand, some of the issues I was finding were not apparent in other member's test results, which should have been identical had we the same exact code. I lay the blame this time on improper syncing due to Github, but it did not affect much of the test and at least other member's have data for those sections I do not. Hopefully, not much of the remainder of the test was rendered invalid.
+
+Another challenge came with the literal action of carrying out the test. I had planned to let the tester investigate the app themselves before prompting them to complete the remaining tasks they did not already complete. However, the tester needed much prodding and guiding, partially due to lack of motivation and failure to read directions. It made me question how much of an influence I should be as someone monitoring a test, versus how uninteresting my app may be, versus how much was just a fault in the tester's interests. I think all three could have been improved upon: I should have been more clear with my instructions for the test and made the tutorials more captivating and thorough in the app. As for the last reason, I can't exactly fix that, but maybe next time I should pick a more enthusiastic, but no less critical, tester.
 
 # 4.1.17
 ## Updates
@@ -134,24 +149,13 @@ MongoDB, for some reason or the other, could not be connected to and left my app
 
 Aside from that, the only other issue appeared when I altered the removing topic function on a study session's detail page. I was having difficulty passing the value of the topic to be removed back and forth between the HTML and JavaScript. Once I understood that the id of the HTML icon tag could be set by and called by JavaScript, I had an easy method for passing the value between them.
 
-# Future Release Updates (3.15.17 - 4.15.17)
+# Future Release Updates (4.15.17 - 5.1.17)
 
 ### Landing Page
  - New look with informative description
 
-### Notifications
-- General notificaiton functionality, for group invites, session dates, etc
+### Github Home Page
+ - Results of usability test
+ - Updated descriptions and screenshots of current app state
 
-### Pros and Studs Table
-- Like the study sessions listing, a database for pros and studs will also be available and sortable
-
-### Chat
-- Improved chat user interface
-- Private chats between certain members
-
-## Tutorials
-- Improve tutorial explanations
- 
-### Usability Test
-- Minor fixes from previous branches
-- Test users will provide feedback on the current state of the app
+### App Deployment
