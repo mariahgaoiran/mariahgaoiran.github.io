@@ -14,6 +14,7 @@ labels:
 # 5.1.17
 ## Updates
 *Updated Homepage*
+
 The [CS homepage](https://collaborativestudy.github.io/) has been updated to reflect the app's newest improvements and results of our recent usability test. Go check it out!
 
 ## Obstacles
