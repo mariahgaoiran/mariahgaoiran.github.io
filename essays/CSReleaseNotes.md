@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: CollaborativeStudy (CS) Release Notes
-date: 2017-04-15
+date: 2017-05-01
 labels:
   - Web App
   - Semantic UI
@@ -10,6 +10,14 @@ labels:
 # CollaborativeStudy (CS) Release Notes
 
 [Collaborative Study (CS)](https://mariahgaoiran.github.io/projects/CS) is a scheduling app intended for UH Manoa ICS majors to plan study sessions together. Our [organization](https://collaborativestudy.github.io/) began development of CS in Fall 2016 as a project for our ICS 314 Software Engineering course. The latest updates and planned releases are listed below in reverse chronological order. Releases are scheduled for every two weeks.
+
+# 5.1.17
+## Updates
+*Updated Homepage*
+The [CS homepage](https://collaborativestudy.github.io/) has been updated to reflect the app's newest improvements and results of our recent usability test. Go check it out!
+
+## Obstacles
+As classes are ending for the semester, the future of CS is being determined on what is most important to be completed before summer break begins. Though it would have been nice to amend some of the bugs found in the usability test and add in the features we were suggested, it was more important to have the project be presentable than completely functional at this point.
 
 # 4.15.17
 ## Updates
@@ -148,14 +156,3 @@ As a side note, it seems as if with every issue solved, five more are formed. So
 MongoDB, for some reason or the other, could not be connected to and left my app hanging when starting up. A simple fix from the interwebs suggested I download and run Mongo seperately, and while this was certainly more tedious, it was not lacking in effectiveness. 
 
 Aside from that, the only other issue appeared when I altered the removing topic function on a study session's detail page. I was having difficulty passing the value of the topic to be removed back and forth between the HTML and JavaScript. Once I understood that the id of the HTML icon tag could be set by and called by JavaScript, I had an easy method for passing the value between them.
-
-# Future Release Updates (4.15.17 - 5.1.17)
-
-### Landing Page
- - New look with informative description
-
-### Github Home Page
- - Results of usability test
- - Updated descriptions and screenshots of current app state
-
-### App Deployment
